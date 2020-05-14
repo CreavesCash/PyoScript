@@ -7,3 +7,5 @@ The default PyoScript Code Library has graphical definitions. Opening a new file
   a
 
 Will return an image of Eco, the protagonist of Pyo World.
+
+As a result of this concison, simple programs in PyoScript are small and take up little space.
