@@ -1,13 +1,9 @@
 Welcome to the PyoScript Documentation!
 ==================
-Uh, yay!
-Let's uh... let's do some pyoscript.
+PyoScript is a somewhat esoteric programming language based in packages called **codepacks**. Codepacks are made up of definitions of every character in the Base-64 Alphabet as a piece of syntax.
 
-NOTES FOR BEN:
-===========
-here's how you do subheadings
-~~~~~~~~~~~~~~~~~
-Here's how you do code blocks::
+The default PyoScript Code Library has graphical definitions. Opening a new file and using the syntax::
 
-  Like this
-Hooray.
+  a
+
+Will return an image of Eco, the protagonist of Pyo World.
